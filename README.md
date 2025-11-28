@@ -151,5 +151,3 @@ Voir `docs/endpoints_for_esp32.md` pour la documentation complète.
 Propriétaire - Hackathon MotorGuard
 
 ---
-
-**Développé avec ❤️ pour le hackathon MotorGuard**
